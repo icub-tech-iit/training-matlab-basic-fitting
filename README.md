@@ -1,5 +1,5 @@
-Basic Fitting with MATLAB
-=========================
+📈 Basic Fitting with MATLAB
+============================
 
 ℹ This repository contains the material required for the training on basic polynomial fitting with MATLAB.
 
